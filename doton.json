@@ -15,6 +15,6 @@
         "DotonCli\\" : "package/"
     },
     "dependencies":{
-        "sensenwork/doton-pkg-interface" : "0.0.1"
+        "sensenworks/doton-pkg-interface" : "0.0.1"
     }
 }
