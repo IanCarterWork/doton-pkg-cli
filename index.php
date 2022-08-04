@@ -31,6 +31,7 @@ require_once __DIR__ . "/doton/autoload.php";
 
 echo "<h1>DotonCli Terminal</h1> ";
 
+
 echo "<div>Name : " . Terminal::name . "</div> ";
 
 echo "<div>Version : " . Terminal::version . "</div> ";
